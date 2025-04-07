@@ -25,7 +25,7 @@ import torch.nn.functional as F
 import torchvision
 from torchvision import models, transforms, utils
 import copy
-from utils import *
+from qutils import *
 # %matplotlib inline
 
 # # CONVERT IMAGE TO TENSOR
